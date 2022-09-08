@@ -6,15 +6,15 @@ const prompt = inquirer.createPromptModule();
 prompt(
     [
         {
-            message:
-            name: 
+            message: 'Please enter the title of your repository.',
+            name: 'title',
         },
         {
-            message:
-            name: 
+            message: 'Please enter a description of your repository.',
+            name: 'description',
         },
         {
-            message:
+            message: ' '
             name:            
         },
         {
