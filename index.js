@@ -58,8 +58,8 @@ prompt([
         console.log(responses);
         const template = `# ${responses.title}
         # Table of Contents
-        * [Description] (#description)
-        * [How to Use] (#use)
+        * [Description](#description)
+        * [How to Use](#use)
         * [Installation](#installation)
         * [Contributing](#contributions)
         * [Tests](#appTest)
