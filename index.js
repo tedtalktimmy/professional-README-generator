@@ -58,8 +58,7 @@ prompt([
         console.log(responses);
         const template = `# ${responses.title}
         # Table of Contents
-        * Description
-        ${responses.description}
+        * [Description] (#description)
         * [How to Use] (#use)
         * [Installation](#installation)
         * [Contributing](#contributions)
@@ -91,7 +90,7 @@ prompt([
         
         ## Links
         * [Github Repository] ${responses.gitHub},
-        * [Live site] ${responses.liveSite}`;;
+        * [Live site] ${responses.liveSite}`;
     if (!fs.existsSync('./output')) {
         fs.mkdirSync('./output');
     }
