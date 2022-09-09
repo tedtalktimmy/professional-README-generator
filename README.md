@@ -30,4 +30,4 @@
         
 ## Links
 * [Github Repository](https://github.com/tedtalktimmy/professional-README-generator)
-* [Live site]()
+* [Live site](https://tedtalktimmy.github.io/professional-README-generator/)
