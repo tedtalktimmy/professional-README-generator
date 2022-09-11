@@ -23,6 +23,7 @@ Run "npm install" for fs, inquirer, and util in your command line.
 
 
 ## Demo
+https://user-images.githubusercontent.com/89530272/189511714-ed4f4e48-eb8e-41b7-8eba-094864bfcee7.mov
 
 
 ## License
