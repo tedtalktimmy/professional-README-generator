@@ -4,6 +4,7 @@
 * [Description](#description)
 * [How to Use](#use)
 * [Installation](#installation)
+* [Demo](#demo)
 * [License](#license)
 * [Links](#links)
         
@@ -19,6 +20,9 @@ After installation, run "node.js" in your command line and answer the questions 
 
 ## Installation
 Run "npm install" for fs, inquirer, and util in your command line.
+
+
+## Demo
 
 
 ## License
