@@ -23,8 +23,3 @@ Run "npm install" for fs, inquirer, and util in your command line.
 
 ## License
 [![License](https://img.shields.io/badge/license-MIT-pink)](https://shields.io)
-
-        
-## Links
-* [Github Repository](https://github.com/tedtalktimmy/professional-README-generator)
-* [Live site](https://tedtalktimmy.github.io/professional-README-generator/)
