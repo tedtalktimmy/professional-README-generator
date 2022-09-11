@@ -83,7 +83,7 @@ prompt([
         ${responses.appTest}
         
         ## License
-        ![Github license](https://img.shields.io/badge/license-${responses.license}-lightpurple)
+        [![Github license](https://img.shields.io/badge/license-${responses.license}-pink)](https://shields.io)
         
         ## Questions
         ${responses.questions}
