@@ -22,7 +22,7 @@ Run "npm install" for fs, inquirer, and util in your command line.
 
 
 ## License
-        ![Github license](https://img.shields.io/badge/license-${responses.license}-lightpurple)
+[![License](https://img.shields.io/badge/license-MIT-lightpurple)](https://shields.oi)
 
         
 ## Links
